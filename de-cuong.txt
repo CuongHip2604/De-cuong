@@ -1,0 +1,34 @@
+A. Nội dung thực tập tại cơ sở.
+    I. Tổng quan về cơ sở thực tập.
+        - Tên, địa chỉ.
+        - Lịch sử phát triển.
+        - Chức năng, nhiệm vụ, phạm vi ngành nghề hoạt động.
+        - Quy mô, năng lực sản xuất, kinh doanh, dịch vụ.
+    II. Ý thức và thái độ trong quá trình thực tập
+    III. Nội dung thực tập.
+        1. Kiến thức cơ bản về Angular
+            + Cách cài đặt.
+            + Các kiến thức cơ bản.
+            + Angular router.
+            + Angular store (ngrx)
+        2. Các nội dung đã và chưa thực hiện được trong quá trình thực tập.
+            + Các công việc thực hiện tại công ty.
+            + Những mặt hạn chế chưa thực hiện được.
+            + Bài học rút ra.
+B. Nội dung thực tập tại trường.
+    I. Giới thiệu chung về hệ thống vi ba số SDH DMR3000S.
+        1. Tổng quát.
+            1.1. Mục đích sử dụng.
+            1.2. Một số đặc tính kỹ thuật cơ bản.
+            1.3. Các cảnh báo của hệ thống.
+        2. Cấu hình hệ thống.
+            2.1. Sơ đồ khối cấu hình hệ thống tại phòng thực hành.
+            2.2. Sơ đồ khối chung cấu hình trạm đầu cuối và trạm lặp.
+        3. Mô tả hoạt động.
+            3.1. Phía phát.
+            3.2. Phía thu.
+    II. Kiến trúc bộ khuyếch đại công suất tại máy phát
+        1. Cấu trúc hệ thống bộ khuyếch đại công suất.
+        2. Điều chỉnh công suất phát tự động (ATPC).
+C. Tổng kết.
+
